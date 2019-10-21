@@ -1,2 +1,1 @@
-# IS-PDP-and-PDP
-Here is a representative example of 3-reservoir (Li-Yuan, A-Hai and Jin-An-Qiao) impoundment operation.
+please refer to the article 'He, S.K., Guo, S.L., Chen, K.B., Deng, L.L., Liao, Z., Xiong, F., Yin, J.B., 2019. Optimal impoundment operation for cascade reservoirs coupling parallel dynamic programming with importance sampling and successive approximation. Adv Water Resour, 131. DOI:10.1016/j.advwatres.2019.07.005'
